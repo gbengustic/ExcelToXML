@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pymat xmlns="http://xmlns.pytha.com/materials/1.0" xmlns:a="http://xmlns.pytha.com/attributes/1.0">
+  <header>
+    <unit-system>
+      <length>mm</length>
+    </unit-system>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+      <rdf:Description rdf:about="">
+        <xmp:CreatorTool>PYTHA V25</xmp:CreatorTool>
+        <xmp:CreateDate>2022-03-24T12:56:51.565Z</xmp:CreateDate>
+      </rdf:Description>
+    </rdf:RDF>
+  </header>
+  <extension-attributes></extension-attributes>
+  <materials>
+    :::MATERIAL:::
+  </materials>
+  <assets>
+    :::a:attributes:::
+  </assets>
+</pymat>

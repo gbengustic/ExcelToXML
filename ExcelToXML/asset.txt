@@ -1,0 +1,4 @@
+﻿<asset id=":::ID:::">
+      <source url=":::URL:::" />
+      <a:attributes></a:attributes>
+    </asset>

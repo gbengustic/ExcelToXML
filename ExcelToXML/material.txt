@@ -1,0 +1,50 @@
+﻿
+    <material name=":::A:::" id=":::MAT_ID:::">
+      <a:attributes>
+        <a:article-no id="2" name="Article no" t="s">:::Q:::</a:article-no>
+        <a:description id="4" name="Description" t="s">:::R::: </a:description>
+        <a:core-material id="14" name="Core material" t="s">:::P::: </a:core-material>
+        <a:construction-type id="45" name="Construction type" t="s">:::O::: </a:construction-type>
+        <a:user-attri1 id="51" name="User Attri1" t="s">:::U:::</a:user-attri1>
+        <a:user-attri2 id="52" name="User Attri2" t="s">:::V::: </a:user-attri2>
+        <a:user-attri3 id="53" name="User Attri3" t="s">:::W::: </a:user-attri3>
+        <a:user-attri4 id="54" name="User Attri4" t="s">:::X::: </a:user-attri4>
+        <a:user-attri5 id="55" name="User Attri5" t="s">:::Y::: </a:user-attri5>
+        <a:user-attri6 id="56" name="User Attri6" t="s">:::Z::: </a:user-attri6>
+        <a:attribute id="61" name="Weight,spec.(g/cm³)" t="d">:::T::: </a:attribute>
+        <a:attribute id="1011" name="Price" t="s">:::S:::</a:attribute>
+        <a:color-srgb id="1000001" t="c">
+          <a:f r="0" t="d">:::B:::</a:f>
+          <a:f r="0" t="d">:::C:::</a:f>
+          <a:f r="0" t="d">:::D:::</a:f>
+        </a:color-srgb>
+<a:diffuse id="1000002" t="d">:::E:::</a:diffuse>
+        <a:reflective id="1000003" t="d">:::F:::</a:reflective>
+        <a:transparent id="1000004" t="d">:::G:::</a:transparent>
+        <a:refractive-index-minus-one id="1000006" t="d">0.52000000000000002</a:refractive-index-minus-one>
+        <a:gloss-curve id="1000007" t="c">
+          <a:f r="0" t="d">1</a:f>
+          <a:f r="0" t="d">0.94999999999999996</a:f>
+          <a:f r="0" t="d">0.84999999999999998</a:f>
+          <a:f r="0" t="d">0.68000000000000005</a:f>
+          <a:f r="0" t="d">0.40000000000000002</a:f>
+          <a:f r="0" t="d">0.20000000000000001</a:f>
+          <a:f r="0" t="d">0.10000000000000001</a:f>
+          <a:f r="0" t="d">0.040000000000000001</a:f>
+          <a:f r="0" t="d">0</a:f>
+          <a:f r="0" t="d">0</a:f>
+          <a:f r="0" t="d">0</a:f>
+          <a:f r="0" t="d">0</a:f>
+          <a:f r="0" t="d">0</a:f>
+        </a:gloss-curve>
+<a:texture-mapping id="1000008" t="i">:::I:::</a:texture-mapping>
+        <a:texture-size id="1000009" t="c">
+<a:f r="0" t="d" i="4">:::K:::</a:f>
+          <a:f r="0" t="d" i="4">:::L:::</a:f>
+        </a:texture-size>
+        :::a:texture-asset:::
+<a:texture-multiply-color id="1000011" t="i">:::J:::</a:texture-multiply-color>
+        :::a:bumpmap-asset:::
+<a:bumpmap-angle id="1000013" t="d">:::N:::</a:bumpmap-angle>
+      </a:attributes>
+    </material>
